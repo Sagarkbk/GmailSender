@@ -4,6 +4,8 @@ from email.message import EmailMessage
 
 from security import password
 
+""" stored password in password variable in security.py file """
+
 import ssl
 import smtplib
 
